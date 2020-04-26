@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E265C</color>
+    <color name="colorPrimaryDark">#1E265C</color>
+    <color name="colorAccent">#FFAA51</color>
+
+    <color name="windowBack">#f8f9fa</color>
+    <color name="blackLight">#474747</color>
+
+    <color name="dot_light_screen">#FFAA51</color>
+    <color name="dot_dark_screen">#4B517D</color>
+</resources>

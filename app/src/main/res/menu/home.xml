@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_analysis"
+        android:icon="@drawable/analysis"
+        android:title="Analysis" />
+
+    <item
+        android:id="@+id/nav_global"
+        android:icon="@drawable/global"
+        android:title="Global" />
+
+    <item
+        android:id="@+id/nav_india"
+        android:icon="@drawable/india"
+        android:title="India" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/info"
+        android:title="Info" />
+</menu>

@@ -1,0 +1,73 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardCornerRadius="1.5dp"
+    app:cardElevation="1.5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F0F1F3"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="10dp"
+        android:weightSum="2.7">
+
+        <ImageView
+            android:id="@+id/imgCountry"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginEnd="3dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/local"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/txtCountry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="0.6"
+            android:maxLines="1"
+            android:text="Abcd"
+            android:textColor="@android:color/black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtCase"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="0.7"
+            android:gravity="center"
+            android:text="000"
+            android:textColor="#8594CA" />
+
+        <TextView
+            android:id="@+id/txtRecover"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="0.7"
+            android:gravity="center"
+            android:text="000"
+            android:textColor="#82D6C1" />
+
+        <TextView
+            android:id="@+id/txtDeath"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="0.7"
+            android:gravity="center"
+            android:text="000"
+            android:textColor="#F282A9" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

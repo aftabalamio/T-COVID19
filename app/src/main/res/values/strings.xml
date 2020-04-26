@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">COVID19 Tracker</string>
+
+    <string name="symptoms">People may be sick with the virus for 1 to 14 days before developing symptoms. The most common
+        symptoms of coronavirus disease (COVID-19) are fever, tiredness, and dry cough. Most people (about 80%) recover from
+        the disease without needing special treatment. More rarely, the disease can be serious and even fatal. \n\nOlder
+        people, and people with other medical conditions (such as asthma, diabetes, or heart disease), maybe more vulnerable
+        to becoming severely Ill."</string>
+
+    <string name="prevent">\n• Wash your hand regularly for 20 seconds, with soap and water.\n\n
+    • Cover your nose and mouth with a disposable tissue or fixed elbow when you cough or sneeze.\n\n
+    • Avoid close contact (1 meter or 3 feet) with people who are unwell.\n\n
+    • Self isolate from others in the household if you feel unwell.\n</string>
+
+    <string name="built">• Kotlin - Official programming language for Android application development by Google.\n\n
+    • Volley - A type-safe HTTP client for java and kotlin by Google.\n\n
+    • Picasso - A powerful image downloading and caching library for Android.\n\n
+    • Architecture Components - A set of Jetpack components which help you to design robust, testable and maintainable apps.\n\n
+    • Material Components - The material UI components for Android, designed and developed by Google.\n\n
+    • Firebase - For crash reporting, analytics, and cloud messaging.</string>
+
+    <string name="thanks">~ JHU CSSE - Johns Hopkins University Center for Systems Science and Engineering.\n\n
+    ~ COVID19India.org - Official managed by indian govt.\n</string>
+   <!-- ~ NSAKCET - Nawab Shah Alam Khan College of Engineering and Technology.\n-->
+</resources>
