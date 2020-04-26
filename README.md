@@ -3,7 +3,7 @@ The COVID19 Tracker is an Android application that provides the latest informati
 
 <h1>Built With</h1>
 <ul>
-  <li><a>Kotlin</a> - Official programming language for Android application development by Google.</li>
+<li><a href="">Kotlin</a> - Official programming language for Android application development by Google.</li>
 <li><a>Volley</a> - A type-safe HTTP client for java and kotlin by Google.</li>
 <li><a>Picasso</a> - A powerful image downloading and caching library for Android.</li>
 <li><a>Material Components</a> - The material UI components for Android, designed and developed by Google.</li>
