@@ -16,3 +16,5 @@ The COVID19 Tracker is an Android application that provides the latest informati
 <li><a href="https://api.covid19india.org/">COVID19India.org</a> - Official managed by indian govt.</li>
 <li><a href="http://www.nsakcet.ac.in/">NSAKCET</a> - Nawab Shah Alam Khan College of Engineering and Technology.</li>
 </ul>
+
+![Image](screenshot.png)
