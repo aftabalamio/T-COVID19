@@ -1,5 +1,7 @@
-# COVID19-Tracker
-The COVID19 Tracker is an Android application that provides the latest information and updates about the Corona Virus(COVID-19) from all corona affected countries of the world and India. In India, we also show the live data with different states, union territories and capitals. It also gives a set of basic COVID-19 symptoms and precautions. Here we have listed the cases as new and old with recovery, deaths, and total with date-time of data updates.
+# T-COVID19
+The T-COVID19 is an Android application that provides the latest information and updates about the Corona Virus(COVID-19) from all corona affected countries of the world and India. In India, we also show live data with different states, union territories, and capitals. It also gives a set of basic COVID-19 symptoms and precautions. Here we have listed the cases as new and old with recovery, deaths, and total with date-time of data updates. 
+
+For India, you can also track the daily cases, recovered, and deaths on a graph with the date and count. 
 
 <h1>Built With</h1>
 <ul>
@@ -17,4 +19,15 @@ The COVID19 Tracker is an Android application that provides the latest informati
 <li><a href="http://www.nsakcet.ac.in/">NSAKCET</a> - Nawab Shah Alam Khan College of Engineering and Technology.</li>
 </ul>
 
-![Image](screenshot.png)
+<table>
+  <tr>
+    <td>Intro1</td>
+     <td>Intro2</td>
+     <td>Intro3</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/s1.jpeg" width=270 height=480></td>
+    <td><img src="screenshots/s2.png" width=270 height=480></td>
+    <td><img src="screenshots/s3.png" width=270 height=480></td>
+  </tr>
+</table>
