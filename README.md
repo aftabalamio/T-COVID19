@@ -27,21 +27,33 @@ For India, you can also track the daily cases, recovered, and deaths on a graph 
     <td>Splash Screen</td>
   </tr>
   <tr>
-    <td><img src="screenshot/s1.JPEG" width=250 height=500></td>
-    <td><img src="screenshot/s2.JPEG" width=250 height=500></td>
-    <td><img src="screenshot/s3.JPEG" width=250 height=500></td>
-    <td><img src="screenshot/s4.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s1.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s2.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s3.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s4.JPEG" width=200 height=400></td>
   </tr>
   <tr>
-    <td>Intro Screen</td>
-    <td>Intro Screen</td>
-    <td>Intro Screen</td>
-    <td>Splash Screen</td>
+    <td>Analysis Screen</td>
+    <td>Global Screen</td>
+    <td>India Screen</td>
+    <td>Confirmed Screen</td>
   </tr>
   <tr>
-    <td><img src="screenshot/s1.JPEG" width=250 height=500></td>
-    <td><img src="screenshot/s2.JPEG" width=250 height=500></td>
-    <td><img src="screenshot/s3.JPEG" width=250 height=500></td>
-    <td><img src="screenshot/s4.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s5.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s6.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s7.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s8.JPEG" width=200 height=400></td>
+  </tr>
+  <tr>
+    <td>Deceased Screen</td>
+    <td>Recovered Screen</td>
+    <td>Info Screen</td>
+    <td>About Screen</td>
+  </tr>
+  <tr>
+    <td><img src="screenshot/s9.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s10.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s11.JPEG" width=200 height=400></td>
+    <td><img src="screenshot/s12.JPEG" width=200 height=400></td>
   </tr>
 </table>
