@@ -26,8 +26,9 @@ For India, you can also track the daily cases, recovered, and deaths on a graph 
      <td>Intro3</td>
   </tr>
   <tr>
-    <td><img src="/screenshot/s1.JPEG" width=270 height=480></td>
-    <td><img src="screenshot/s2.jpeg" width=270 height=480></td>
-    <td><img src="screenshot/s3.jpeg" width=270 height=480></td>
+    <td><img src="/screenshot/s1.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s2.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s3.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s4.JPEG" width=250 height=500></td>
   </tr>
 </table>
