@@ -1,4 +1,4 @@
-package com.mdaftabalam.covid19tracker
+package com.mdaftabalam.covid19
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.mdaftabalam.covid19tracker", appContext.packageName)
+        assertEquals("com.mdaftabalam.covid19", appContext.packageName)
     }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.mdaftabalam.covid19tracker">
+    package="com.mdaftabalam.covid19">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -15,7 +15,8 @@
         tools:ignore="AllowBackup">
         <activity
             android:name=".activity.TutorialActivity"
-            android:theme="@style/AppTheme2">
+            android:theme="@style/AppTheme2"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,11 +25,26 @@
         </activity>
         <activity
             android:name=".activity.SplashActivity"
-            android:theme="@style/AppTheme2" />
-        <activity android:name=".activity.MainActivity" />
+            android:theme="@style/AppTheme2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.MainActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".activity.InfoActivity"
             android:label="About Us"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.ChartConfirmActivity"
+            android:label="India COVID-19 Confirmed"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.ChartDeathActivity"
+            android:label="India COVID-19 Deceased"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.ChartRecoverActivity"
+            android:label="India COVID-19 Recovered"
             android:parentActivityName=".activity.MainActivity" />
     </application>
 </manifest>

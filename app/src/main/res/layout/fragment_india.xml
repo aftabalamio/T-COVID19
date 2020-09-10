@@ -4,8 +4,72 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/chart_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/code_back"
+            android:drawableTop="@drawable/chart"
+            android:drawableTint="@android:color/black"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Daily Confirm"
+            android:textColor="#E0931F"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/chart_death"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/code_back"
+            android:drawableTop="@drawable/chart"
+            android:drawableTint="@android:color/black"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Daily Deceased"
+            android:textColor="#E72225"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/chart_recover"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/code_back"
+            android:drawableTop="@drawable/chart"
+            android:drawableTint="@android:color/black"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Daily Recovered"
+            android:textColor="#37634F"
+            android:textSize="13sp" />
+    </LinearLayout>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_india"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+    <!--<com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_chart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/colorAccent"
+        android:src="@drawable/chart"
+        app:tint="@android:color/white" />-->
 </LinearLayout>
