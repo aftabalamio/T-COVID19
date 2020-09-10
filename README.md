@@ -21,12 +21,25 @@ For India, you can also track the daily cases, recovered, and deaths on a graph 
 
 <table>
   <tr>
-    <td>Intro1</td>
-     <td>Intro2</td>
-     <td>Intro3</td>
+    <td>Intro Screen</td>
+    <td>Intro Screen</td>
+    <td>Intro Screen</td>
+    <td>Splash Screen</td>
   </tr>
   <tr>
-    <td><img src="/screenshot/s1.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s1.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s2.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s3.JPEG" width=250 height=500></td>
+    <td><img src="screenshot/s4.JPEG" width=250 height=500></td>
+  </tr>
+  <tr>
+    <td>Intro Screen</td>
+    <td>Intro Screen</td>
+    <td>Intro Screen</td>
+    <td>Splash Screen</td>
+  </tr>
+  <tr>
+    <td><img src="screenshot/s1.JPEG" width=250 height=500></td>
     <td><img src="screenshot/s2.JPEG" width=250 height=500></td>
     <td><img src="screenshot/s3.JPEG" width=250 height=500></td>
     <td><img src="screenshot/s4.JPEG" width=250 height=500></td>
